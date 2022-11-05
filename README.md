@@ -3,7 +3,7 @@ I am a self-motivated and deadline-oriented individual who has both software dev
 
 I have completed my bachelor's in Computer Science and Engineering and post graduate diploma in Internet Applications and Web Development. I have worked on several projects during my academic study. By participating in online courses and testing websites made with educational objectives in mind, I am currently learning a new language (Python), techniques, and tools.
 
-# Skills
+# Skills & Tools
 Manual Testing
 - Can perform end to end functional testing 
 - Gained hands-on experience by testing financial applications in previous workplace
@@ -50,6 +50,13 @@ Android Studio
 SDLC
 
 Agile
+
+# Sample of my work (Documentation and Testing)
+- I have used a sample portfolio website to show the test cases screenshot which I developed using WordPress and also created sample smoke testing documentation by using sample mobile application
+- Check this Link: https://drive.google.com/drive/folders/1uNlSj944yM0mMqcp2Wg1IZgcoZoWu4en?usp=share_link
+
+
+
 
 
 
