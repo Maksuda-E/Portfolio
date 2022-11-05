@@ -35,14 +35,15 @@ Selenium
 - Can run test cases using Selenium
 - Able to write simple test script using Selenium
 
-- HTML & CSS 
-- Node.js
-- Jira 
-- Git
-- Linux
-- SDLC
-- Agile
-- Android Studio
+HTML & CSS 
+Node.js
+Jira 
+Git
+Linux
+Android Studio
+SDLC
+Agile
+
 
 
 
