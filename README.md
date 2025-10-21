@@ -1,5 +1,5 @@
 # About me
-I am currently advancing my expertise in Business Intelligence & Infrastructures at Algonquin College, Ottawa, where I focus on transforming complex datasets into meaningful insights through visualization and analytics. My academic journey is complemented by hands-on experience in software development, web applications, and software testing, including over a year of professional work in manual and API testing. This combination equips me with a strong technical and analytical foundation to approach real-world business problems with data-driven solutions.
+I am currently advancing my expertise in Business Intelligence System Infrastructure program at Algonquin College, where I focus on transforming complex datasets into meaningful insights through visualization and analytics. My academic journey is complemented by hands-on experience in software development, web applications, and software testing, including over a year of professional work in manual and API testing. This combination equips me with a strong technical and analytical foundation to approach real-world business problems with data-driven solutions.
 
 # Skills & Tools
 
@@ -28,15 +28,3 @@ Tools & Methodologies
 - I have used a sample portfolio website to show the test cases screenshot which I developed using WordPress and also created sample smoke testing documentation by using sample mobile application
 - Check this Link: https://drive.google.com/drive/folders/1uNlSj944yM0mMqcp2Wg1IZgcoZoWu4en?usp=share_link
 - My project work: https://github.com/Maksuda-E
-
-
-
-
-
-
-
-
-
-
-
-
