@@ -1,55 +1,28 @@
 # About me
-I am a self-motivated and deadline-oriented individual who has both software development and testing skills. Moreover, extremely enthusiastic about software architecture and design and passionate about programming as well as has good interpersonal and teamwork skills. I have over 1+ years of work experience in both Manual and API testing.
-
-I have completed my bachelor's in Computer Science and Engineering and post graduate diploma in Internet Applications and Web Development. I have worked on several projects during my academic study. By participating in online courses and testing websites made with educational objectives in mind, I am currently learning a new language (Python), techniques, and tools.
+I am currently advancing my expertise in Business Intelligence & Infrastructures at Algonquin College, Ottawa, where I focus on transforming complex datasets into meaningful insights through visualization and analytics. My academic journey is complemented by hands-on experience in software development, web applications, and software testing, including over a year of professional work in manual and API testing. This combination equips me with a strong technical and analytical foundation to approach real-world business problems with data-driven solutions.
 
 # Skills & Tools
-Manual Testing
-- Can perform end to end functional testing 
-- Gained hands-on experience by testing financial applications in previous workplace
 
-API Testing
-- Have work knowledge of REST API
-- Can perform API testing using Postman tool
+Business Intelligence & Data Analysis
+- Tableau, Excel, SQL
+- Data visualization and dashboard creation
+- Business analytics and reporting
+  
+Software Development & Web Development
+-JavaScript (React & React Native), HTML/CSS, Node.js
+-Responsive web design and interactive applications
 
-Documentation
-- Able to create test cases and checklists, and knowledgeable about when and how to use them
-- Identified, documented and reported bugs, errors and other issues of two new projects of previous workplace
-- Developed SRS documents
+Testing & Quality Assurance
+- Manual Testing: End-to-end functional testing, test case creation, bug reporting
+- API Testing: REST API using Postman
 
-JavaScript
-- Have strong understanding of this language and its framework (React & React Native)
-- Developed several academic projects by using this language and framework
+Programming & Scripting
+-Python: Basic understanding, algorithms, and scripting
+-SQL: Queries, joins, aliases, clauses; experience with Oracle database
 
-SQL
-- Have academic knowledge of SQL query
-- Know difference of all the SQL joins, aliases and clauses
-- Can write sql query in Oracle database
-
-Python
-- Have basic understanding of Python
-- knowledge of variables, functions and simple algorithm
-
-Selenium
-- Have basic understanding of Selenium
-- Can run test cases using Selenium
-- Able to write simple test script using Selenium
-
-HTML\CSS 
-
-Node.js
-
-Jira
-
-Git
-
-Linux 
-
-Android Studio
-
-SDLC
-
-Agile
+Tools & Methodologies
+-Git/GitHub, Android Studio,
+-SDLC & Agile methodologies
 
 # Sample of my work (Documentation and Testing)
 - I have used a sample portfolio website to show the test cases screenshot which I developed using WordPress and also created sample smoke testing documentation by using sample mobile application
