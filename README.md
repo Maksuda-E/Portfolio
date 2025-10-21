@@ -24,7 +24,7 @@ Tools & Methodologies
 -Git/GitHub, Android Studio,
 -SDLC & Agile methodologies
 
-# Sample of my work (Documentation and Testing)
+# Sample of my work 
 - I have used a sample portfolio website to show the test cases screenshot which I developed using WordPress and also created sample smoke testing documentation by using sample mobile application
 - Check this Link: https://drive.google.com/drive/folders/1uNlSj944yM0mMqcp2Wg1IZgcoZoWu4en?usp=share_link
 - My project work: https://github.com/Maksuda-E
